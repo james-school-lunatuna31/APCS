@@ -4,7 +4,7 @@ Hello World
 
 Demosntrates hello world
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Rwchjd4Vw1I)
 
 # Development Environment
 
